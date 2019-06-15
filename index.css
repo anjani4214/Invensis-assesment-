@@ -1,0 +1,15 @@
+.container{
+    padding: 45px;
+}
+th{
+    text-align: center !important;
+}
+table{
+    text-align: center;
+}
+.btn{
+    margin: 10px;
+}
+.table>tbody>tr>td{
+    vertical-align: middle;
+}
